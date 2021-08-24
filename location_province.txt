@@ -1,0 +1,8 @@
+INSERT INTO location_province(id, name)
+VALUES(1,'Province 1'),
+(2,'Province 2'),
+(3,'Bagmati Province'),
+(4,'Gandaki Province'),
+(5,'Lumbini Province'),
+(6,'Karnali Province'),
+(7,'Sudurpashchim Province');
